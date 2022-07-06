@@ -1,0 +1,7 @@
+# Binary Search
+
+
+
+```
+// Some code
+```

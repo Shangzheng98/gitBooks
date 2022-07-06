@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Binary Search](README.md)
+  * [Page 3](binary-search/page-3.md)
+* [Recursion](recursion/README.md)
+  * [Page 2](recursion/page-2.md)
+* [BFS](bfs.md)
+* [DFS](dfs.md)
+* [Linked List](linked-list.md)
+* [Queue & Stack](queue-and-stack.md)
+* [Binary Tree & BST](binary-tree-and-bst.md)
+* [Heap](heap.md)
+* [Hash Table](hash-table.md)
+* [String](string.md)
+* [Dynamic Programming](dynamic-programming.md)
+* [Page 1](page-1.md)
