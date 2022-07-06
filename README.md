@@ -1,7 +1,2 @@
-# Binary Search
+# Sort
 
-
-
-```
-// Some code
-```
