@@ -25,6 +25,7 @@
     * [132. Deep Copy Undirected Graph](graph/dfs/132.-deep-copy-undirected-graph.md)
     * [63. All Subsets II](graph/dfs/63.-all-subsets-ii.md)
   * [BFS](graph/bfs/README.md)
+    * [195. Place To Put The Chair I](graph/bfs/195.-place-to-put-the-chair-i.md)
     * [147. Restore IP Addresses](graph/bfs/147.-restore-ip-addresses.md)
 * [Recursion](recursion/README.md)
   * [139. Maximum Path Sum Binary Tree II](recursion/page-2.md)
