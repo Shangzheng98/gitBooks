@@ -19,6 +19,7 @@
 * [Binary Search](<README (1).md>)
   * [14. Classical Binary Search](binary-search/page-3.md)
   * [267. Search In Sorted Matrix I](readme-1/267.-search-in-sorted-matrix-i.md)
+  * [Page 1](readme-1/page-1.md)
 * [Graph](graph/README.md)
   * [DFS](graph/dfs/README.md)
     * [640. All Subsets of Size K](graph/dfs/640.-all-subsets-of-size-k.md)
