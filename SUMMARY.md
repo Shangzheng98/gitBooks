@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Sort](README.md)
+  * [4. Selection Sort](readme/4.-selection-sort.md)
 * [Data Structure](data-structure/README.md)
   * [Arrays](data-structure/arrays.md)
   * [Linked List](linked-list.md)
@@ -35,7 +36,7 @@
 * [String](string.md)
 * [Dynamic Programming](dynamic-programming.md)
 * [Traversal](page-1.md)
-* [Math](math/README.md)
+* [Math](math.md)
   * [13. a to the power of b](math/13.-a-to-the-power-of-b.md)
 * [Sum](sum.md)
   * [186. 3 Sum](sum/186.-3-sum.md)
