@@ -2,6 +2,7 @@
 
 * [Sort](README.md)
   * [4. Selection Sort](readme/4.-selection-sort.md)
+  * [Page 1](readme/page-1.md)
 * [Data Structure](data-structure/README.md)
   * [Arrays](data-structure/arrays.md)
   * [Linked List](linked-list.md)
@@ -22,6 +23,7 @@
   * [267. Search In Sorted Matrix I](readme-1/267.-search-in-sorted-matrix-i.md)
   * [First Occurrence and Last Occurrence](readme-1/first-occurrence-and-last-occurrence.md)
   * [19. K Closest In Sorted Array](readme-1/19.-k-closest-in-sorted-array.md)
+  * [21. Search In Shifted Sorted Array I](readme-1/21.-search-in-shifted-sorted-array-i.md)
 * [Graph](graph/README.md)
   * [DFS](graph/dfs/README.md)
     * [640. All Subsets of Size K](graph/dfs/640.-all-subsets-of-size-k.md)
