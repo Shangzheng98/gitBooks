@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Sort](README.md)
+  * [Topological Sort](readme/topological-sort.md)
+  * [207. Course Schedule](readme/207.-course-schedule.md)
   * [Merge Sort](readme/merge-sort/README.md)
     * [148. Sort List](readme/merge-sort/148.-sort-list.md)
   * [Selection Sort](readme/selection-sort/README.md)
@@ -16,6 +18,7 @@
   * [Linked List](data-structure/linked-list/README.md)
     * [61. Rotate List](data-structure/linked-list/61.-rotate-list.md)
     * [24. Swap Nodes in Pairs](data-structure/linked-list/24.-swap-nodes-in-pairs.md)
+    * [19. Remove Nth Node From End of List](data-structure/linked-list/19.-remove-nth-node-from-end-of-list.md)
   * [Queue & Stack](data-structure/queue-and-stack/README.md)
     * [Stack](data-structure/queue-and-stack/stack/README.md)
       * [155. Min Stack](data-structure/queue-and-stack/stack/155.-min-stack.md)
