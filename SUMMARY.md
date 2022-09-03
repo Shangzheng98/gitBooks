@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Sort](README.md)
-  * [Topological Sort](readme/topological-sort/README.md)
+  * [Topological Sort](readme/topological-sort.md)
     * [207. Course Schedule](readme/topological-sort/207.-course-schedule.md)
   * [Merge Sort](readme/merge-sort/README.md)
     * [148. Sort List](readme/merge-sort/148.-sort-list.md)
@@ -22,6 +22,7 @@
     * [61. Rotate List](data-structure/linked-list/61.-rotate-list.md)
     * [24. Swap Nodes in Pairs](data-structure/linked-list/24.-swap-nodes-in-pairs.md)
     * [19. Remove Nth Node From End of List](data-structure/linked-list/19.-remove-nth-node-from-end-of-list.md)
+    * [82. Remove Duplicates from Sorted List II](data-structure/linked-list/82.-remove-duplicates-from-sorted-list-ii.md)
   * [Queue & Stack](data-structure/queue-and-stack/README.md)
     * [Stack](data-structure/queue-and-stack/stack/README.md)
       * [155. Min Stack](data-structure/queue-and-stack/stack/155.-min-stack.md)
@@ -36,7 +37,9 @@
     * [639. Max Path Sum From Leaf To Root](data-structure/binary-tree-and-bst/639.-max-path-sum-from-leaf-to-root.md)
     * [141. Binary Tree Path Sum To Target III](data-structure/binary-tree-and-bst/141.-binary-tree-path-sum-to-target-iii.md)
     * [211. Reconstruct Binary Search Tree With Postorder Traversal](data-structure/binary-tree-and-bst/211.-reconstruct-binary-search-tree-with-postorder-traversal.md)
-  * [Heap](heap.md)
+    * [98. Validate Binary Search Tree](data-structure/binary-tree-and-bst/98.-validate-binary-search-tree.md)
+    * [99. Recover Binary Search Tree](data-structure/binary-tree-and-bst/99.-recover-binary-search-tree.md)
+  * [Heap](data-structure/heap/README.md)
     * [134. Merge K Sorted Lists](data-structure/heap/134.-merge-k-sorted-lists.md)
     * [215. Kth Largest Element in an Array](data-structure/heap/215.-kth-largest-element-in-an-array.md)
     * [295. Find Median from Data Stream](data-structure/heap/295.-find-median-from-data-stream.md)
@@ -78,3 +81,4 @@
   * [4Sum](sum/4sum.md)
   * [186. 3 Sum](sum/186.-3-sum.md)
   * [182. 2 Sum All Pair II](sum/182.-2-sum-all-pair-ii.md)
+* [Trie (prefix tree)](trie-prefix-tree.md)
