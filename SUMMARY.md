@@ -88,3 +88,5 @@
   * [182. 2 Sum All Pair II](sum/182.-2-sum-all-pair-ii.md)
 * [Trie (prefix tree)](trie-prefix-tree/README.md)
   * [208. Implement Trie (Prefix Tree)](trie-prefix-tree/208.-implement-trie-prefix-tree.md)
+* [Sliding Window](sliding-window/README.md)
+  * [1248. Count Number of Nice Subarrays Medium](sliding-window/1248.-count-number-of-nice-subarrays-medium.md)
