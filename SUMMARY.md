@@ -42,6 +42,7 @@
     * [211. Reconstruct Binary Search Tree With Postorder Traversal](data-structure/binary-tree-and-bst/211.-reconstruct-binary-search-tree-with-postorder-traversal.md)
     * [98. Validate Binary Search Tree](data-structure/binary-tree-and-bst/98.-validate-binary-search-tree.md)
     * [99. Recover Binary Search Tree](data-structure/binary-tree-and-bst/99.-recover-binary-search-tree.md)
+    * [156. Binary Tree Upside Down](data-structure/binary-tree-and-bst/156.-binary-tree-upside-down.md)
   * [Heap](data-structure/heap/README.md)
     * [134. Merge K Sorted Lists](data-structure/heap/134.-merge-k-sorted-lists.md)
     * [215. Kth Largest Element in an Array](data-structure/heap/215.-kth-largest-element-in-an-array.md)
